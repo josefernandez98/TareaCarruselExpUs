@@ -1,0 +1,64 @@
+body {
+  font-family: Century Gothic;
+  font-size: 15px;
+  line-height: 1.5;
+  padding: 0;
+  margin: 0;
+  background-color: #da6343;
+}
+
+header {
+  background-color:   #353434  ;
+  padding-top: 1px;
+  min-height: 30px;
+
+}
+
+header h1 {
+     text-align: center;
+     margin-bottom: 50px;
+     margin-top: 1px;
+     color:  #ffffff ;
+     text-shadow: 0 3px 5px;
+}
+
+footer {
+  padding: 1px;
+  color: #000000;
+  background-color:    #d0bebe  ;
+  text-align: center;
+  font-family: Century Gothic;
+  font-size: 15px;
+}
+
+#Slider form {
+	text-align: center;
+}
+
+#Slider {
+  min-height: 200px;
+  text-align: center;
+  color:#ffffff;
+  line-height: 5em;
+}
+
+#Slider input[id = "botonAtras"] {
+     background: url("../img/FlechaAtras.png");
+     width: 100px;
+     height: 100px;
+     border: none;
+     padding-top: 110px;
+}
+
+#Slider input[id = "botonAdelante"] {
+     background: url("../img/FlechaAdelante.png");
+     width: 100px;
+     height: 100px;
+     border: none;
+     padding-top: 110px;
+}
+
+#BigPic {
+     text-align: center;
+     margin-bottom: 20px;
+}
