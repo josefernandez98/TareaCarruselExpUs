@@ -1,6 +1,5 @@
 var imgArray = new Array("foto1.jpg","foto2.jpg","foto3.jpg","foto4.jpg","foto5.jpg","foto6.jpg","foto7.jpg"
 ,"foto8.jpg","foto9.jpg","foto10.jpg","foto11.jpg","foto12.jpg","foto13.jpg","foto14.jpg","foto15.jpg");
-
 var numImages = 15;
 var curImage = 1;
 
